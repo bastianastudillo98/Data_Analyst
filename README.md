@@ -1,7 +1,7 @@
 # RENT A CAR
 Esta es una empresa ficticia que se dedica al arriendo de autos donde su flota de vehiculos la compone desde un emprendedor con flotas y persona natural dentro de la empresa llamados Owners que deja de su vehiculo para ser arrendado por usuarios llamados Drivers.
 
-Objetivos:
+Objetivos Realizados:
 - Identificar dentro del proceso ETL(Extracción, Transformación y Carga) a los clientes dentro de la base de Datos Owners y Drivers
 - Python Pandas transformar los datos brutos a clientes nuevos, retenidos, resucitados y más
 - Desarrollar KPI's y mantener seguimiento
