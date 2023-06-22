@@ -6,7 +6,8 @@ Objetivos Realizados:
 - Python Pandas transformar los datos brutos a clientes nuevos, retenidos, resucitados y más
 - Desarrollar KPI's y mantener seguimiento
 - Migrar los datos a LookerStudio de Google un Sheets con API Credencial de Google
-
+Desarrollo:
+Se realiza la transformación de los datos en Python Jupyter Notebook "https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio/blob/main/Code_ETL-BastianAF-.ipynb"
 
 Looker Studio
 - Owner reservas y ingresos: https://lookerstudio.google.com/reporting/8feec386-ac83-4ad6-b57b-379983cbefd1/page/p_3wv6a3twsc
