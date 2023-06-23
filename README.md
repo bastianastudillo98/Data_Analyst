@@ -7,7 +7,7 @@ Objectives Achieved:
 - Develop KPI's and keep track
 - Migrate data to Google LookerStudio a Sheets with Google's API Credential API
 
-Desarrollo:
+Development:
 - Data transformation is performed in Python Jupyter Notebook "https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio/blob/main/Code_ETL-BastianAF-.ipynb" After a long logic of algorithms, the objectives are achieved and the process is automated, reducing costs, speeding up decision making and the overall business overview. 
 
 Looker Studio
