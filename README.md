@@ -1,5 +1,5 @@
 # RENT A CAR
-This is a fictitious company that is dedicated to car rental where its fleet of vehicles is composed of an entrepreneur with fleets and natural person within the company called Owners who leave their vehicles to be rented by users called Drivers.
+This is a fictitious company that is dedicated to car rental where its fleet of vehicles is composed of an entrepreneur with fleets and natural person within the company called Owners who leave their vehicles to be rented by users called Drivers.In January 2022, it is proposed to increase the service fee from 15% to 20%.
 
 Objectives Achieved:
 - Identify within the ETL (Extract, Transform and Load) process the customers within the Owners and Drivers database.
