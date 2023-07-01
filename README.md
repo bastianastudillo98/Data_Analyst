@@ -9,7 +9,11 @@ Objectives Achieved:
 - Migrate data to Google LookerStudio a Sheets with Google's API Credential API
 
 Development:
-- Data transformation is performed in Python Jupyter Notebook [Code](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio/blob/main/Code_ETL-BastianAF-.ipynb) After a long logic of algorithms, the objectives are achieved and the process is automated, reducing costs, speeding up decision making and the overall business overview. 
+## Customer Clients
+![Customer Clients](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/Customer%20Analysis.png)
+## Code in Jupyter Notebook Python 
+- Data transformation is performed in Python Jupyter Notebook [Code](https://github.com/bastianastudillo98/ETL_RentCar_LookerStudio/blob/main/Code_ETL-BastianAF-.ipynb) After a long logic of algorithms, the objectives are achieved and the process is automated, reducing costs, speeding up decision making and the overall business overview.
+
 ## Transformed DataBase
 ![Transformed database_1](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/DATOS_NETO_1.png)
 ![Transformed database_2](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/DATOS_NETO_2.png)
