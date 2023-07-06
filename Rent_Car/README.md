@@ -1,25 +1,27 @@
 # RENT A CAR
-This is a fictitious company that is dedicated to car rental where its fleet of vehicles is composed of an entrepreneur with fleets and natural person within the company called Owners who leave their vehicles to be rented by users called Drivers.In January 2022, it is proposed to increase the service fee from 15% to 20%.
+Se trata de una empresa ficticia que se dedica al alquiler de vehículos donde su flota de vehículos está compuesta por un empresario con flotas y persona física dentro de la empresa denominados Propietarios que dejan sus vehículos para que sean alquilados por usuarios denominados Conductores.En enero de 2022, se propone incrementar la comisión de servicio del 15% al 20%.
 ## Raw DataBase
 ![Raw Data](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/DATOS_BRUTO.png)
-Objectives Achieved:
-- Identify within the ETL (Extract, Transform and Load) process the customers within the Owners and Drivers database.
-- Python Pandas transform raw data to new, retained, revived customers and more
-- Develop KPI's and keep track
-- Migrate data to Google LookerStudio a Sheets with Google's API Credential API
+Objetivos:
+- Identificar dentro del proceso ETL (Extraer, Transformar y Cargar) los clientes dentro de la base de datos de Propietarios y Conductores.
+- Python Pandas transforma los datos brutos en clientes nuevos, retenidos, revividos, etc.
+- Desarrollar KPI's y realizar un seguimiento
+- Migrar datos a Google LookerStudio a Sheets con la API de credenciales de Google
 
-# Development:
-## Customer Clients
-![Customer Clients](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/Customer%20Analysis.png)
-## Code in Jupyter Notebook Python 
-- Data transformation is performed in Python Jupyter Notebook [Code](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/Code/RentCar%20customer%20analysis.ipynb) After a long logic of algorithms, the objectives are achieved and the process is automated, reducing costs, speeding up decision making and the overall business overview.
+# Desarrollo:
+## Clientes
+![PB_1](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/RentaCar_page-0001.jpg)
+## Código en Jupyter Notebook Python 
+- La transformación de datos se realiza en Python Jupyter Notebook [Code](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/Code/RentCar%20customer%20analysis.ipynb) Tras una larga lógica de algoritmos, los objetivos se alcanzan y el proceso se automatiza, reduciendo costes, agilizando la toma de decisiones y la visión global de la empresa.
 
 ## Transformed DataBase
 ![Transformed database_1](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/DATOS_NETO_1.png)
 ![Transformed database_2](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/DATOS_NETO_2.png)
 ![Transformed database_2](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/DATOS_NETO_3.png)
-
-
+## Power Bi
+![PB_2](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/RentaCar_page-0002.jpg)
+![PB_3](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/RentaCar_page-0003.jpg)
+![PB_4](https://github.com/bastianastudillo98/Data_Analyst/blob/main/Rent_Car/image/RentaCar_page-0004.jpg)
 ## Looker Studio
 - Owner bookings | revenue: [Rent a Car Owner Report](https://lookerstudio.google.com/reporting/8feec386-ac83-4ad6-b57b-379983cbefd1/page/p_3wv6a3twsc)
   
